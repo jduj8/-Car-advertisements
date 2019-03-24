@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "944590833179",
+    "firebase_url": "https://usedcars-330ac.firebaseio.com",
+    "project_id": "usedcars-330ac",
+    "storage_bucket": "usedcars-330ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944590833179:android:81bb57f378196d9e",
+        "android_client_info": {
+          "package_name": "com.example.dujic.usedcars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944590833179-v1grtaeviu15pksjf6hf8m8r5ie3tkc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dujic.usedcars",
+            "certificate_hash": "265368e64747ab066f9cd6daca9daf6a44641bfb"
+          }
+        },
+        {
+          "client_id": "944590833179-188g0hp8u0k4vgs2us47dfcuvcdnmaa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRzLmCYCZ6Wk1_EqUhmgSCgWuuxyY1IY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944590833179-188g0hp8u0k4vgs2us47dfcuvcdnmaa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
